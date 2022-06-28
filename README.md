@@ -1,16 +1,23 @@
-# task_1
+# Algoriza task 1
 
-A new Flutter project.
+We have learned at the fisrt technical session:
 
-## Getting Started
+- What is Null safety? and how to handle it?
 
-This project is a starting point for a Flutter application.
+- How can we make reusable components?
 
-A few resources to get you started if this is your first Flutter project:
+- How to deal with pub.dev?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Task description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### On Boarding page:
+
+- I used MVVM as a state management to handle its logic.
+
+- I tried to use reusable components concept as much as possible.
+
+### Login page and Register page:
+
+- Its just a design, there is no logic.
+
+- I tried to use reusable components concept as much as possible.
