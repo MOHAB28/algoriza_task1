@@ -12,7 +12,7 @@ We have learned at the fisrt technical session:
 
 ### On Boarding page:
 
-- I used MVVM as a state management to handle its logic.
+- I have used MVVM as a state management to handle its logic.
 
 - I tried to use reusable components concept as much as possible.
 
